@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e740f35a.css",
+    "main.js": "/static/js/main.af52c331.js",
+    "static/media/food-1.png": "/static/media/food-1.9c9336552e8a3765e0a2.png",
+    "static/media/salad (4).png": "/static/media/salad (4).6545f75acf71c779498a.png",
+    "static/media/salad (2).png": "/static/media/salad (2).b091592d57786d281b41.png",
+    "static/media/offer-burger.png": "/static/media/offer-burger.58837837e6a2c9755772.png",
+    "static/media/salad (3).png": "/static/media/salad (3).91170f4ba60f2cc74c7b.png",
+    "static/media/pasta1.png": "/static/media/pasta1.be72e40dd20c3c37ed4c.png",
+    "static/media/fresh.png": "/static/media/fresh.58fda0d9e780c5c6e50c.png",
+    "static/media/food-3.png": "/static/media/food-3.de6df08bfe6b4e725557.png",
+    "static/media/salad (1).png": "/static/media/salad (1).c4bc8ac7802bf03facbc.png",
+    "static/media/food-logo.webp": "/static/media/food-logo.46014ecaa1c4cf330d08.webp",
+    "index.html": "/index.html",
+    "main.e740f35a.css.map": "/static/css/main.e740f35a.css.map",
+    "main.af52c331.js.map": "/static/js/main.af52c331.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e740f35a.css",
+    "static/js/main.af52c331.js"
+  ]
+}
